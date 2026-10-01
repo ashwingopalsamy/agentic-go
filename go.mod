@@ -1,10 +1,10 @@
 module github.com/ashwingopalsamy/agentic-go
 
-go 1.25.0
+go 1.26.0
 
 require (
 	github.com/modelcontextprotocol/go-sdk v1.7.0
-	golang.org/x/mod v0.39.0
+	golang.org/x/mod v0.41.0
 	golang.org/x/tools v0.49.0
 )
 
